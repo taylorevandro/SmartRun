@@ -1,4 +1,4 @@
-# smartrunnn
+# Projeto Smart Run
 
 A new Flutter project.
 
